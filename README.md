@@ -66,3 +66,4 @@ SGDClassifier() score: 0.48517883873816076
 
 RandomForestClassifier() score: 0.858099377082428
 
+![performance graph](https://github.com/wendrel815/bank_churn_project/blob/main/graph%20to%20the%20report/model_performance.png)
