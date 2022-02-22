@@ -33,3 +33,5 @@ feature selection techniques were used to verify if there is a combination of fe
 - CustomerId 
 - Surname
 
+***pre-processing techniques used in this process***
+*BINARINZING SOME CATEGORICAL COLUMNS*
