@@ -67,3 +67,43 @@ SGDClassifier() score: 0.48517883873816076
 RandomForestClassifier() score: 0.858099377082428
 
 ![performance graph](https://github.com/wendrel815/bank_churn_project/blob/main/graph%20to%20the%20report/model_performance.png)
+
+### HYPERPARAMETERS
+
+**Hyperparameters were used to try to improve the performance of the model**
+
+BEST PARAMETERS {'criterion': 'entropy', 'max_features': 'auto', 'n_estimators': 300}
+
+### metrics
+
+
+
+              precision    recall  f1-score   support
+
+    NO CHURN       0.88      0.85      0.86      1633
+       CHURN       0.85      0.87      0.86      1553
+
+    accuracy                           0.86      3186
+   macro avg       0.86      0.86      0.86      3186
+weighted avg       0.86      0.86      0.86      3186
+
+### API ACCESS
+- the API file for classification is in the directory
+- it is necessary to run it before sending the data for classification
+
+
+### MONEY
+amount that the bank loses annually with the annual churn of customers with higher-than-average salaries - 31.373,947
+
+amount that the bank loses annually with the annual churn of customers with salaries lower than the average - 7.472,377
+
+amount the bank lost annually from all churn customers - 38.846,324
+
+HOW MUCH WILL THIS DECREASE WITH THE USE OF THE MODEL (5% decrease which is the difference between the model's accuracy and the current % of churn- 1.942,316
+
+HOW MUCH THE BANK WILL CONTINUE TO LOSE WITH THE MODEL - 36.904,008 (STILL STUDYING HOW TO IMPROVE THE MODEL AND REDUCE THIS LOSS)
+
+
+
+
+
