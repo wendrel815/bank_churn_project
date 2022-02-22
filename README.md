@@ -9,3 +9,5 @@ portfolio project
 - pikle file
 - api file
 - data preparation file
+
+### strategy addressed - cyclic method
