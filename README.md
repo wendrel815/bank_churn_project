@@ -34,4 +34,21 @@ feature selection techniques were used to verify if there is a combination of fe
 - Surname
 
 ***pre-processing techniques used in this process***
+
 *BINARINZING SOME CATEGORICAL COLUMNS*
+- Gender
+- Geography
+
+### Models used for testing
+- KNeighborsClassifier
+- DecisionTreeClassifier
+- GaussianNB
+- LogisticRegression
+- GaussianNB
+- SGDClassifier
+- RandomForestClassifier
+
+### models performance
+
+**TRAINING AND TESTING THE MODEL WITH CROSS VALIDATION TO SEE WHICH IS THE BEST ONE**
+
