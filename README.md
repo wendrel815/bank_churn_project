@@ -104,6 +104,5 @@ HOW MUCH WILL THIS DECREASE WITH THE USE OF THE MODEL (5% decrease which is the 
 HOW MUCH THE BANK WILL CONTINUE TO LOSE WITH THE MODEL - 36.904,008 (STILL STUDYING HOW TO IMPROVE THE MODEL AND REDUCE THIS LOSS)
 
 
-
-
+![ANNUAL LOSS IN MILLIONS](https://github.com/wendrel815/bank_churn_project/blob/main/graph%20to%20the%20report/money.png)
 
