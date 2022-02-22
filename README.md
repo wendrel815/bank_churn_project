@@ -53,10 +53,16 @@ feature selection techniques were used to verify if there is a combination of fe
 **TRAINING AND TESTING THE MODEL WITH CROSS VALIDATION TO SEE WHICH IS THE BEST ONE**
 
 KNeighborsClassifier() score: 0.6881203380961249
+
 DecisionTreeClassifier() score: 0.7870822603994517
+
 GaussianNB() score: 0.720647455853267
+
 LogisticRegression() score: 0.6742443638327416
+
 GaussianNB() score: 0.720647455853267
+
 SGDClassifier() score: 0.48517883873816076
+
 RandomForestClassifier() score: 0.858099377082428
 
