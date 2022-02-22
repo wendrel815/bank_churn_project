@@ -25,3 +25,10 @@ portfolio project
 1. What is TopBank's current Churn rate?
 2. What is the model's performance in classifying customers as **churns**?
 3. What is the expected return, in terms of revenue, if the company uses its model to avoid **churn** from customers?
+
+***features that were removed to improve the performance of the model ***
+feature selection techniques were used to verify if there is a combination of features that would make the model perform better. the file with the procedure is in the link
+- RowNumber,
+- CustomerId 
+- Surname
+
